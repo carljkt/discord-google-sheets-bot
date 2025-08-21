@@ -2,7 +2,7 @@
 
 A minimal Discord bot written in **TypeScript** using **discord.js**, designed to showcase communication between Discord and **Google Sheets** via the `google-spreadsheet` package and Google Apps Script (`.gs`).
 
-<https://github.com/user-attachments/assets/f1ed38c6-eaef-4b48-8152-c826c7cf6c10>
+https://github.com/user-attachments/assets/9af90777-57f2-491c-a4f0-03afb1519bb3
 
 ## Features
 
